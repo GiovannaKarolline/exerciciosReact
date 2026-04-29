@@ -1,0 +1,11 @@
+body{
+  background-color: lavender;
+}
+
+p{
+  font-size: 35px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding-top: 19%;
+  font-weight: 600;
+}
